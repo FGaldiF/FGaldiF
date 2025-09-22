@@ -17,14 +17,13 @@
 <br>
 
 ## 🛠️ Ferramentas e Tecnologias
-## 🛠️ Ferramentas e Tecnologias
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" height="40"/>
+</a>
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
