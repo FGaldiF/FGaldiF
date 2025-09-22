@@ -17,12 +17,13 @@
 <br>
 
 ## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas e Tecnologias
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
@@ -30,7 +31,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
 </p>
-<br>
+
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-fernando.galdi4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.galdi4@gmail.com)](mailto:fernando.galdi4@gmail.com)  
