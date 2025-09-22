@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-a.contarellilima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.contarellilima@gmail.com)](mailto:a.contarellilima@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fernando.galdi4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.contarellilima@gmail.com)](mailto:a.contarellilima@gmail.com)
 [![Linkedin: Fernando](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernando-galdi-fernandes/)]((https://www.linkedin.com/in/fernando-galdi-fernandes/))
 <br><br>
 
