@@ -38,4 +38,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FGaldiF&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&card_width=300"/>
 </p>
-=true&count_private=true&hide_title=true&theme=tokyonight&car_
