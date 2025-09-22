@@ -9,7 +9,10 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,java,python,javascript,c,sql)]<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,powerBI,github)](https://skillicons.dev)<br><br>
+
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)  
+[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://powerbi.microsoft.com/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 ## 📫 Contato
 
