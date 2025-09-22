@@ -39,5 +39,4 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FGaldiF&show_icons=true&theme=tokyonight&count_private=true" alt="Fernando Galdi Fernandes GitHub stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FGaldiF&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&car_
