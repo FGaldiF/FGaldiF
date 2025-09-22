@@ -22,15 +22,15 @@
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" height="40"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" height="40"/>
+  </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
 </p>
-
+<br>
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/-fernando.galdi4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.galdi4@gmail.com)](mailto:fernando.galdi4@gmail.com)  
@@ -39,4 +39,6 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FGaldiF&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&car_
+  <img src="https://github-readme-stats.vercel.app/api?username=FGaldiF&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&card_width=300"/>
+</p>
+=true&count_private=true&hide_title=true&theme=tokyonight&car_
